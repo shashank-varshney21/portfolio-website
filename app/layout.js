@@ -11,10 +11,6 @@ const ovo = Ovo({
   weight: ["400"] 
 });
 
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
-  subsets: ["latin"],
-});
 
 export const metadata = {
   title: "portfolio-Shashank",
