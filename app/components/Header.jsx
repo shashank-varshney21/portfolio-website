@@ -14,8 +14,8 @@ const Header = () => {
             I am a frontend developer from India with 10 years of experience in multiple companies like Microsoft, Tesla and Apple
         </p>
         <div className='flex flex-col sm:flex-row items-center gap-4 mt-4'>
-        <a href='#contact' className='px-10 py-3 border border-white rounded-full bg-black text-white flex items-center gap-2'>contact me <Image src={assets.right_arrow_white} alt='' className='w-4'/></a>
-        <a href='/sample-resume.pdf' download className='px-10 py-3 border rounded-full border-gray-500 flex items-center gap-2'>my resume <Image src={assets.download_icon} alt='' className='w-4'/></a>
+        <a href='#contact' className='px-10 py-3 border border-white rounded-full bg-black text-white flex items-center gap-2 dark:bg-transparent'>contact me <Image src={assets.right_arrow_white} alt='' className='w-4'/></a>
+        <a href='/sample-resume.pdf' download className='px-10 py-3 border rounded-full border-gray-500 flex items-center gap-2 bg-white dark:text-black'>my resume <Image src={assets.download_icon} alt='' className='w-4'/></a>
         </div>
     </div>
   )
