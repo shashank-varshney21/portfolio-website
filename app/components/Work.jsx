@@ -9,7 +9,7 @@ const Work = () => {
             <h2 className='text-center text-5xl font-Ovo'>My latest work</h2>
 
             <p className='text-center max-w-2xl mx-auto mt-5 mb-12 font-Ovo'>
-                I am a frontend developer from India with 3 years of Experience in multiple companies like Microsoft, Tesla and Apple.
+                Welcome to my web development portfolio! Explore a collection of projects showcasing my expertise in front-end development. 
             </p>
 
             <div className='grid grid-cols-[repeat(auto-fit,_minmax(200px,_1fr))] my-10 gap-5'>
