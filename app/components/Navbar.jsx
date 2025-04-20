@@ -2,7 +2,7 @@ import { assets } from '@/assets/assets'
 import Image from 'next/image'
 import React, { useEffect, useRef, useState } from 'react'
 
-const Navbar = () => {
+const Navbar = ({isDarkMode, setIsDarkMode}) => {
 
     const sideMenuRef = useRef();
     const openMenu = () => {
@@ -43,7 +43,7 @@ const Navbar = () => {
             </ul>
 
             <div className='flex items-center gap-4'>
-                <button>
+                <button onClick={()=>setIsDarkMode(prev => !prev)}>
                     <Image src={assets.moon_icon} alt='' className='w-6'/>
                 </button>
 
