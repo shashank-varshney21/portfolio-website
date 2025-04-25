@@ -22,13 +22,13 @@ const Header = () => {
         initial={{ opacity: 0, y: -30 }}
         whileInView={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.8, delay: 0.5 }}
-        className='text-3xl sm:text-6xl lg:text-[66px] font-Ovo'>frontend developer based in India</motion.h1>
+        className='text-3xl sm:text-6xl lg:text-[66px] font-Ovo'>Full stack developer based in India</motion.h1>
         <motion.p 
         initial={{ opacity: 0 }}
         whileInView={{ opacity: 1}}
         transition={{ duration: 0.6, delay: 0.7 }}
         className='max-w-2xl mx-auto font-Ovo'>
-            I am a frontend developer from India with 10 years of experience in multiple companies like Microsoft, Tesla and Apple
+          I am a full stack developer from India with hands-on experience building dynamic web applications using Next.js, Node.js, and MongoDB.
         </motion.p>
         <div className='flex flex-col sm:flex-row items-center gap-4 mt-4'>
         <motion.a 

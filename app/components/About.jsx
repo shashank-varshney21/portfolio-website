@@ -39,8 +39,9 @@ const About = ({isDarkMode}) => {
                 transition={{ duration: 0.6, delay: 0.8 }}
             >
                 <p className='mb-10 max-w-2xl font-Ovo'>
-                    I am an experienced frontend developer with over a decade of professional expertise in the field.
-                    Throughout my carrer, I have had the privilege of collabrating with prestigious organisations, contributing to their success and growth.
+                I have successfully led and optimized projects like an e-commerce platform with real-time inventory 
+                updates and a scalable real-time chat application. With strong knowledge in REST APIs, Context API, 
+                and responsive design, I’m passionate about creating efficient and user-centric solutions that scale.
                 </p>
 
                 <motion.ul 
