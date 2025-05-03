@@ -102,9 +102,9 @@ export const workData = [
 ]
 
 export const serviceData = [
-    { icon: assets.web_icon, title: 'Web design', description: 'Web development is the process of building, programming...', link: '' },
+    { icon: assets.web_icon, title: 'Web design', description: 'Web design encompasses many different skills and...', link: 'https://en.wikipedia.org/wiki/Web_design' },
     { icon: assets.mobile_icon, title: 'Mobile app', description: 'Mobile app development involves creating software for mobile devices...', link: '' },
-    { icon: assets.ui_icon, title: 'UI/UX design', description: 'UI/UX design focuses on creating a seamless user experience...', link: '' },
+    { icon: assets.ui_icon, title: 'UI/UX design', description: 'User experience design (UX design, UXD, UED, or XD)...', link: 'https://en.wikipedia.org/wiki/User_experience_design' },
     { icon: assets.graphics_icon, title: 'Graphics design', description: 'Creative design solutions to enhance visual communication...', link: '' },
 ]
 
