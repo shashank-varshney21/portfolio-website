@@ -81,23 +81,27 @@ export const assets = {
 export const workData = [
     {
         title: 'Frontend project',
-        description: 'Web Design',
+        description: 'Portfolio website',
         bgImage: '/work-1.png',
+        link:'https://github.com/shashank-varshney21/portfolio-website',
     },
     {
-        title: 'Geo based app',
-        description: 'Mobile App',
-        bgImage: '/work-2.png',
+        title: 'Ecommerce website',
+        description: 'Pizza-cart',
+        bgImage: '/work-8.jpg',
+        link:'https://github.com/shashank-varshney21/pizza-cart',
     },
     {
-        title: 'Photography site',
-        description: 'Web Design',
-        bgImage: '/work-3.png',
+        title: 'Chat-App',
+        description: 'Real-Time chat',
+        bgImage: '/work-6.jpg',
+        link:'https://github.com/shashank-varshney21/Real-Time-Chat-Application',
     },
     {
-        title: 'UI/UX designing',
-        description: 'UI/UX Design',
-        bgImage: '/work-4.png',
+        title: 'LeetCode',
+        description: 'Problem solving',
+        bgImage: '/work-7.png',
+        link:'https://leetcode.com/u/Shashank_gupta21/',
     },
 ]
 
