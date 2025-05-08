@@ -36,6 +36,10 @@ import send_icon from './send-icon.png';
 import right_arrow_bold from './right-arrow-bold.png';
 import right_arrow_bold_dark from './right-arrow-bold-dark.png';
 import postman from './postman.png';
+import profile_img1 from './profile-img1.png';
+import user_image1 from './user-image1.jpg';
+import logo1 from './logo1.png';
+import logo_dark1 from './logo_dark1.png';
 
 export const assets = {
     user_image,
@@ -75,7 +79,11 @@ export const assets = {
     send_icon,
     right_arrow_bold,
     right_arrow_bold_dark,
-    postman
+    postman,
+    profile_img1,
+    user_image1,
+    logo1,
+    logo_dark1,
 };
 
 export const workData = [
