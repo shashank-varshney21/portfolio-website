@@ -97,7 +97,7 @@ export const workData = [
         title: 'Ecommerce website',
         description: 'Pizza-cart',
         bgImage: '/work-8.jpg',
-        link:'https://github.com/shashank-varshney21/pizza-cart',
+        link:'https://get-pizza-on-door.vercel.app/',
     },
     {
         title: 'Chat-App',
